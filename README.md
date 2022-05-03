@@ -1,3 +1,4 @@
+# File Tree
 <p>Files are organized in trees (*): Directories can contain regular files and directories.
 We now want to model this structure in Java.
 For this purpose we define our own classes <code>File</code>,<code>Directory</code> and <code>RegularFile</code>. <code>File</code> is an abstract class from which<code>Directory</code> and <code>RegularFile</code> inherit.
